@@ -7,7 +7,8 @@ Esta lista foi compilada inicialmente por Gabi Sobral [@darkgabi](http://twitter
 A partir do momento da criação desse github a responsabilidade da lista é repassada para mim [@brilvio](http://twitter.com/brilvio) e [@ChofenAdulto](http://twiter.com/ChofenAdulto)
 
 # Lista
-[Podcasts](PODCASTS.md)
+[Podcasts](PODCASTS.md)  
+
 [Youtube](YOUTUBE.md)
 
 # Como ajudar no projeto
