@@ -19,4 +19,4 @@ Se você já tem uma familiriade com o github você pode abrir o seu próprio pu
 
 [github/jovemadulto](https://github.com/jovemadulto) [@ChofenAdulto](http://twiter.com/ChofenAdulto) 
 
-Se mais alguém quiser manter o projeto entre em contato conosco.
+Se mais alguém quiser ajudar a manter o projeto, entre em contato conosco.
