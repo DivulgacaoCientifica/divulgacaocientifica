@@ -63,6 +63,7 @@
 | Pizza de Dados                   | Ciência de Dados                  | http://pizzadedados.com/                                                                |         |
 | PoDebug                          | Programação                       | http://www.podebug.com/                                                                 |         |
 | PODEntender                      |                                   | https://podentender.com/                                                                |         |
+| PodScience                       | Ciências Naturais e Humanas       | https://podscience.wordpress.com/                                                       |         |
 | Política em Rede                 | Ciência Política                  | https://inctdd.org/politica-em-rede/                                                    |         |
 | Quarta Capa                      | Literatura                        | https://dragoesdegaragem.com/quartacapa/                                                |         |
 | Quatro de 15                     | Educação Física                   | https://quatrode15.com.br                                                               |         |
