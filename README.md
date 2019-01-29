@@ -23,4 +23,4 @@ Caso não conheça esta plataforma, não tem problema nenhum! Abra uma issue [cl
 
 [github/jovemadulto](https://github.com/jovemadulto) [@ChofenAdulto](http://twiter.com/ChofenAdulto) 
 
-Se mais alguém quiser manter o projeto entre em contato conosco.
+Se mais alguém quiser ajudar a manter o projeto, entre em contato conosco.
