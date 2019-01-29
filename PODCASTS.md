@@ -42,6 +42,7 @@
 | Hack'n'Cast                      | Segurança digital                 | http://hackncast.org/                                                                   |         |
 | Impacto Positivo                 |                                   | https://www.euricovianna.com.br/podcast-impacto-positivo/                               |         |
 | Lambda3                          |                                   | https://www.lambda3.com.br/                                                             |         |
+| Mamilos                          | Jornalismo, Diversos              | https://www.b9.com.br/podcasts/mamilos/                                                 |         |
 | Medicina em Debate               |                                   | http://medicinaemdebate.com.br/                                                         |         |
 | Microbiando                      |                                   | http://www.cienciaexplica.com.br/category/podcast/microbiando/                          |         |
 | Mitografias                      | Mitologia                         | https://www.mitografias.com.br/                                                         |         |
