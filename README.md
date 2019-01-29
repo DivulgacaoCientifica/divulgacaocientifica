@@ -6,6 +6,10 @@ Esta lista foi compilada inicialmente por Gabi Sobral [@darkgabi](http://twitter
 
 A partir do momento da criação desse github a responsabilidade da lista é repassada para mim [@brilvio](http://twitter.com/brilvio) e [@ChofenAdulto](http://twiter.com/ChofenAdulto)
 
+# Lista
+[Podcasts](PODCASTS.md)
+[Youtube](YOUTUBE.md)
+
 # Como ajudar no projeto
 Se você já tem uma familiriade com o github você pode abrir o seu próprio pull requests com as modificações que você achar necessárias, se não tiver, não tem problema nenhum abra uma issue https://github.com/brilvio/divulgacaocientifica/issues/new com as modificações e a gente faz a alteração.
 
