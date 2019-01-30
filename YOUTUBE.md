@@ -110,6 +110,7 @@
 | QuerQueDesenhe                           |                                          | https://www.youtube.com/user/QuerQueDesenhe                       | ScienceVlogsBr |
 | Redação e Gramática Zica                 | Português                                | https://www.youtube.com/user/redacaoegramatica                    |                |
 | Reinaldo José Lopes                      |                                          | https://www.youtube.com/channel/UCoB9jZ5E60HraX36xHx6ZQQ          | ScienceVlogsBr |
+| Sapiência                                | Biologia                                 | https://www.youtube.com/channel/UChMzLbUCqjArXce-IspNa8Q          |                |
 | Schwarza - Poligonautas                  |                                          | https://www.youtube.com/user/poligonautas                         | ScienceVlogsBr |
 | Scifilo                                  | filosofia                                | https://www.youtube.com/channel/UC-OuVAzIFVM8eJYntzvZsoQ          |                |
 | Singularidade                            |                                          | https://www.youtube.com/singularidade                             |                |
