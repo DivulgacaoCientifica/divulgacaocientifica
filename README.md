@@ -9,6 +9,8 @@ A partir do momento da criação desse repositório a responsabilidade da lista 
 Sintam-se livres para contribuir e entrar em contato conosco pelas [issues](https://github.com/brilvio/divulgacaocientifica/issues/new), ou através do Twitter para dicas e sugestões.
 
 # Lista
+* [Blogs](BLOGS.md)
+
 * [Podcasts](PODCASTS.md)  
 
 * [Youtube](YOUTUBE.md)

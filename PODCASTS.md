@@ -41,6 +41,7 @@
 | Giz Cast                         | Educação                          | http://gizcast.com.br/                                                                  |         |
 | Hack'n'Cast                      | Segurança digital                 | http://hackncast.org/                                                                   |         |
 | Impacto Positivo                 |                                   | https://www.euricovianna.com.br/podcast-impacto-positivo/                               |         |
+| Larvas Incendiadas               | Gênero e Sexualidade              | https://larvasincendiadas.com/                                                          |         |
 | Lambda3                          |                                   | https://www.lambda3.com.br/                                                             |         |
 | Mamilos                          | Jornalismo, Diversos              | https://www.b9.com.br/podcasts/mamilos/                                                 |         |
 | Medicina em Debate               |                                   | http://medicinaemdebate.com.br/                                                         |         |

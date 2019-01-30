@@ -126,5 +126,6 @@
 | Universo Discreto                        |                                          | https://www.youtube.com/universodiscreto                          |                |
 | Universo Racionalista                    |                                          | https://www.youtube.com/channel/UCX2X5RCvKCf-rVHop2WiEgQ          | ScienceVlogsBr |
 | Vá Ler um Livro                          | Literatura                               | https://www.youtube.com/valerumlivro                              |                |
+| Viver Ciência                            | Ciência e Educação - Diversidades        | https://www.youtube.com/tvufg                                             |                |
 | WR Kits                                  | Engenharia Eletrônica                    | https://www.youtube.com/canalwrkits                               |                |
 | Xadrez Verbal                            | História                                 | https://www.youtube.com/user/xadrezverbal                         | ScienceVlogsBr |
