@@ -10,6 +10,7 @@
 | Ciência em Revista   | Educação - Divulgação Científica             | https://www.blogs.unicamp.br/cienciaemrevista/                        |     Blogs Científicos - UNICAMP    |
 | Ciência em Si        | Ciências Biológicas, Químicas, Agrícolas e Ambientais | https://www.blogs.unicamp.br/cienciaemsi/                    |     Blogs Científicos - UNICAMP    |
 | Ciência Nerd         | Ciência e Tecnologia                         | https://www.blogs.unicamp.br/ciencianerd/                             |     Blogs Científicos - UNICAMP    |
+| Cientistas Feministas | Divulgação Científica | https://cientistasfeministas.wordpress.com/ | |
 | Contemporânea        |Artes Visuais                                 | https://www.blogs.unicamp.br/contemporanea/                           |     Blogs Científicos - UNICAMP    |
 | Criançalogia         |                                              | https://www.blogs.unicamp.br/criancalogia/                            |     Blogs Científicos - UNICAMP    |
 | Descascando a Ciência | Diversos - Divulgação Científica            | https://www.blogs.unicamp.br/descascandoaciencia/                     |     Blogs Científicos - UNICAMP    |
