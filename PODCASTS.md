@@ -4,6 +4,8 @@
 | 4 Curiosos Podcast               |                                   | https://soundcloud.com/user-766096508                                                   |         |
 | 5ʹ PM Podcast                    | Gestão de projetos                | http://www.ricardo-vargas.com/pt/podcasts/                                              |         |
 | ACeará Cast                      |                                   | https://soundcloud.com/acearacast                                                       |         |
+| Aerocast                         | Aeronáutica                       | https://aerocast.com.br
+                                 |        |
 | Alô, Ciência?                    |                                   | https://alociencia.com.br/                                                              |         |
 | AntiCast                         | Variados                          | http://anticast.com.br/                                                                 |         |
 | Apenã                            |                                   | http://apenan.com.br                                                                    |         |
