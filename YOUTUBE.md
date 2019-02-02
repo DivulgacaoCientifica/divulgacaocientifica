@@ -1,6 +1,7 @@
 | Nome                                     | Área do Conhecimento                     | Endereço                                                          | Obs            |
 |------------------------------------------|------------------------------------------|-------------------------------------------------------------------|----------------|
 | A Matemaníaca                            | Matemática                               | https://www.youtube.com/channel/UCz4Zuqtj9fokXH68gZJmCdA          | ScienceVlogsBr |
+| Aerocast                                 | Aeronáutica                              | https://www.youtube.com/user/gabrieltoledano                      |                |
 | Agrominds                                | Agronomia                                | https://www.youtube.com/channel/UC5YLuwaaZIBmcjcCCdBNSMg          |                |
 | AgroNãoMia                               | Agronomia                                | https://www.youtube.com/channel/UCvomzJbluSd6T-EpSsLru8w          |                |
 | Alimente o Cérebro                       | Filosofia                                | https://www.youtube.com/user/canaldocerebro                       | ScienceVlogsBr |
