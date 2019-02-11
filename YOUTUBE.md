@@ -73,6 +73,7 @@
 | Jornal Ciensacional                      |                                          | https://www.youtube.com/user/jornalciensacional                   | ScienceVlogsBr |
 | Laboratório 2000                         |                                          | https://www.youtube.com/channel/UC99ocVKjV8mth0CqTYbRbGQ          |                |
 | Leitura ObrigaHistória                   | História                                 | https://www.youtube.com/channel/UCtMjnvODdK1Gwy8psW3dzrg          | ScienceVlogsBr |
+| Ler é Preciso                            | Literatura                               | https://www.youtube.com/channel/UCEesnwWJEaUVb9bRplq_CNQ          |                |
 | Manual do Mundo                          | Diversos                                 | https://www.youtube.com/user/iberethenorio                        |                |
 | Marcelo Gleiser                          | Física                                   | https://www.youtube.com/marcelogleiser                            |                |
 | Mas Afinal                               | Geografia                                | https://www.youtube.com/c/MasAfinal1                              |                |
@@ -117,10 +118,12 @@
 | Singularidade                            |                                          | https://www.youtube.com/singularidade                             |                |
 | SocioVlog                                |                                          | https://www.youtube.com/user/sociovlogBR                          |                |
 | Space Today                              | Astronomia                               | https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A          | ScienceVlogsBr |
+| Super Exatas                             | Ciências Exatas                          | https://www.youtube.com/channel/UCj-kGcLi7TsB4HXw4BqkvGw          |                |
 | Terra Negra                              |                                          | https://www.youtube.com/channel/UCbQ4CkszFFUju5XtFid-XWQ          | ScienceVlogsBr |
 | Tese Onze                                | Ciências Políticas                       | https://www.youtube.com/channel/UC0fGGprihDIlQ3ykWvcb9hg          |                |
 | Thaís Lima                               |                                          | https://www.youtube.com/channel/UCA0KKIqq_xQf9s9fhDXSVgg          |                |
 | Trabalho de Mesa                         | Artes Cênicas                            | https://www.youtube.com/user/confinsartisticos                    |                |
+| Tudo é Física                            | Física                                   | https://www.youtube.com/channel/UCUwc8Mchmm82TNLutPUOkNA          |                |
 | Tv Boitempo                              | Ciências Políticas, Sociologia, História | https://www.youtube.com/user/imprensaboitempo                     |                |
 | Um Pequeno Passo                         | Engenharia Aeroespacial                  | https://www.youtube.com/channel/UCg0_BRO3P-OggHZAAUC91kA          |                |
 | Um Sábado Qualquer                       |                                          | https://www.youtube.com/user/sabadoqualquer                       |                |
@@ -128,6 +131,6 @@
 | Universo Discreto                        |                                          | https://www.youtube.com/universodiscreto                          |                |
 | Universo Racionalista                    |                                          | https://www.youtube.com/channel/UCX2X5RCvKCf-rVHop2WiEgQ          | ScienceVlogsBr |
 | Vá Ler um Livro                          | Literatura                               | https://www.youtube.com/valerumlivro                              |                |
-| Viver Ciência                            | Ciência e Educação - Diversidades        | https://www.youtube.com/tvufg                                             |                |
+| Viver Ciência                            | Ciência e Educação - Diversidades        | https://www.youtube.com/tvufg                                     |                |
 | WR Kits                                  | Engenharia Eletrônica                    | https://www.youtube.com/canalwrkits                               |                |
 | Xadrez Verbal                            | História                                 | https://www.youtube.com/user/xadrezverbal                         | ScienceVlogsBr |
