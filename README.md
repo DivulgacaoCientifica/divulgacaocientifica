@@ -15,6 +15,8 @@ Sintam-se livres para contribuir e entrar em contato conosco pelas [issues](http
 
 * [Youtube](YOUTUBE.md)
 
+* [Instagram] (INSTAGRAM.mg)
+
 # Como ajudar no projeto
 Se você já tem uma familiaride com o GitHub você pode abrir o seu próprio Pull Request com as modificações que você achar necessárias. Tente sempre obedecer a ordem alfabética dos programas e fornecer os dados completos e atualizados.
 
