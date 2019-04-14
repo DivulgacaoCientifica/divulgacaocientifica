@@ -567,4 +567,8 @@
 | Windows Mobile Portugal (PT*)   | Tecnologia e Inovação             | http://windowsmobileportugal.com/                                     | Retirado de "Anel de Blogs Científicos" |
 | www.JJoao.com (PT*)             | Tecnologia e Inovação             | http://www.jjoao.com/                                                 | Retirado de "Anel de Blogs Científicos" |
 | X ao Quadrado                   | Engenharia - Computação           | https://www.blogs.unicamp.br/xaoquadrado/                             | Blogs Científicos - UNICAMP             |
-| Xis-Xis (BR)                    | Ambiente e Ciências da Vida       | http://scienceblogs.com.br/xisxis/                                    | Retirado de "Anel de Blogs Científicos" | 
+| Xis-Xis (BR)                    | Ambiente e Ciências da Vida       | http://scienceblogs.com.br/xisxis/                                    | Retirado de "Anel de Blogs Científicos" |
+
+### Fontes:
+* [Anel de Blogs Científicos](https://anelciencia.wordpress.com/)
+* [Blogs Científicos - UNICAMP](https://www.blogs.unicamp.br/)
