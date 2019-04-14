@@ -44,6 +44,8 @@
 | Impacto Positivo                 |                                   | https://www.euricovianna.com.br/podcast-impacto-positivo/                               |         |
 | Larvas Incendiadas               | Gênero e Sexualidade              | https://larvasincendiadas.com/                                                          |         |
 | Lambda3                          |                                   | https://www.lambda3.com.br/                                                             |         |
+| Lingua Livre                     | Lingua, Linguagens                | https://www.lingualivre.com/                                                            |         |
+| Lugar de Mulher                  | Humanidades                       | http://lugardemulherpod.com/                                                            |         |
 | Mamilos                          | Jornalismo, Diversos              | https://www.b9.com.br/podcasts/mamilos/                                                 |         |
 | Medicina em Debate               |                                   | http://medicinaemdebate.com.br/                                                         |         |
 | Microbiando                      |                                   | http://www.cienciaexplica.com.br/category/podcast/microbiando/                          |         |
