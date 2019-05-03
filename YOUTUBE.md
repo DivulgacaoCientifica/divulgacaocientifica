@@ -81,7 +81,6 @@
 | CNPqOficial (BR)                         | Divulgação Científica Institucional / Política Científica / Cientometria | https://www.youtube.com/user/CNPqOficial                     | Retirado de "Anel de Blogs Científicos" |
 | Colecionadores de Ossos                  | Paleontologia                            | https://www.youtube.com/user/ColecionadoresOssos             | ScienceVlogsBr                          |
 | Conexão Ciência (BR)                     | Divulgação Científica Institucional / Política Científica / Cientometria | https://www.youtube.com/user/ConexaoCiencia                  | Retirado de "Anel de Blogs Científicos" |
-
 | ComCiência Corporal                      | Educação Física                          | https://www.youtube.com/channel/UCM1gu2yWlpvzzIyRSB8PMBA     | ScienceVlogsBr                          |
 | Cris Amarante – Arqueologia Alternativa (BR)| Ciências Sociais e Humanidades           | https://www.youtube.com/channel/UC-G1NZcttwT8HT4Go6NVksg     | Retirado de "Anel de Blogs Científicos" |
 | Conexão em Ciência (BR)                  | Saúde e Medicina                         | https://www.youtube.com/channel/UC87m5S5iWHIDT9l_ImtVLBQ     | Retirado de "Anel de Blogs Científicos" |
