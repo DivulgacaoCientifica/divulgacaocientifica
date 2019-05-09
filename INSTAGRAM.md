@@ -22,6 +22,7 @@
 | Diário de uma Biomedica                  | Biomedicina                              | https://www.instagram.com/diariobiomedica/                        |          |
 | Dr. Biomed                               | Biomedicina                              | https://www.instagram.com/doctorbio_/                             |          |
 | Doutoranda.em.Inovação                   | Ciências Farmacêuticas / Fitoquímica / Metabolômica / Diabetes | https://www.instagram.com/doutorandaeminovacao/|          |
+| Eco e Tal                                | Ecologia                                 | https://www.instagram.com/eco.et.al/                              | Facebook: https://www.facebook.com/milene.ecoetal/         | 
 | ensinodecienciasebiologia                | Pedagogia / Biologia                     | https://www.instagram.com/ensinodecienciasebiologia/              |          |
 | elementflavia                            | Química                                  | https://www.instagram.com/elementflavia/                          |          |
 | farmaceutico.bioquimico                  | Farmácia / Biotecnologia                 | https://www.instagram.com/farmaceutico.bioquimico/                |          |
