@@ -20,6 +20,7 @@
 | diariodeumadoutoranda                    | Ciência da Informação                    | https://www.instagram.com/diariodeumadoutoranda/                  |          |
 | Descascando a Ciência                    | Divulgação Científica                    | https://www.instagram.com/descascandoaciencia/                    |          |
 | Diário de uma Biomedica                  | Biomedicina                              | https://www.instagram.com/diariobiomedica/                        |          |
+| DivulgaMicro                             | Comunicação e Divulgação Científica      | https://www.instagram.com/divulgamicro/                           |          |
 | Dr. Biomed                               | Biomedicina                              | https://www.instagram.com/doctorbio_/                             |          |
 | Doutoranda.em.Inovação                   | Ciências Farmacêuticas / Fitoquímica / Metabolômica / Diabetes | https://www.instagram.com/doutorandaeminovacao/|          |
 | Eco e Tal                                | Ecologia                                 | https://www.instagram.com/eco.et.al/ Facebook: https://www.facebook.com/milene.ecoetal/                             |          | 
@@ -29,6 +30,7 @@
 | farmastudie                              | Farmácia                                 | https://www.instagram.com/farmastudie/                            |          |
 | Farmácia News                            | Farmácia / Divulgação Científica         | https://www.instagram.com/farmacianews/                           |          |
 | Garota Biomédica                         | Biomedicina                              | https://www.instagram.com/garotabiomedica/                        |          |
+| Gelo na Bagagem                          | Antártica e Oceanos                      | https://www.instagram.com/gelonabagagem/                          |          |
 | graciellehigino                          | Ecologia                                 | https://www.instagram.com/graciellehigino/                        |          |
 | Help Biomed                              | Biomedicina                              | https://www.instagram.com/helpbiomed/                             |          |
 | Hugo Fernandes-Ferreira                  | Biologia / Zoologia                      | https://www.instagram.com/hugofernandesbio/                       |          |
