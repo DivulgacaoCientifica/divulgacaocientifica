@@ -9,6 +9,7 @@
 | A Aba de Heisenberg (PT)        | Ciência Geral                     | http://abaheisenberg.blogspot.com/                                    | Retirado de "Anel de Blogs Científicos" | 
 | A Apologia do Eu (PT)           | Ciência Geral                     | http://apologiadoeu.blogspot.com/                                     | Retirado de "Anel de Blogs Científicos" | 
 | A busca pela sabedoria (PT*)    | Ciência Geral                     | http://scienceblogs.com.br/uoleo/                                     | Retirado de "Anel de Blogs Científicos" | 
+| A Ciência Explica (BR)          | Ciência geral - Divulgação científica | http://cienciaexplica.com.br
 | A ciência não é neutra (PT*)    | Ciência Geral                     | https://a-ciencia-nao-e-neutra.blogspot.com/                          | Retirado de "Anel de Blogs Científicos" |
 | A Ciência Pelos Olhos Delas     | Divulgação Científica - Diversos - Feminismo| https://www.blogs.unicamp.br/cienciapelosolhosdelas/        | Blogs Científicos - UNICAMP             |
 | A Crônica das Moscas            | Ambiente e Ciências da Vida       | http://scienceblogs.com.br/cronicamoscas/                             | Retirado de "Anel de Blogs Científicos" |
