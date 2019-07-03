@@ -25,7 +25,8 @@
 | CogCast                          | Ciências Humanas                  | http://cogcast.com.br/                                                                  | Inativo |
 | Coisa de Criança                 | Diversos, infantil.               | https://www.spreaker.com/show/3281728/episodes/feed                                     |         |
 | Conhecimento em Foco             |                                   | http://conhecimentoemfoco.com.br/wp/                                                    | Inativo |
-| DesAbraçando Árvores             | Ecologia                          | https://www.desabrace.com.br/                                                           |         |
+| DesAbraçando Árvores             | Ecologia                          | https://www.desabrace.com.br/                                                           |         |  
+| DNE - devnaestrada               | Programação                       | https://devnaestrada.com.br/                                                            |         | 
 | Dragões de Garagem               | Diversas                          | http://dragoesdegaragem.com/                                                            |         |
 | Eco-Evolução                     |                                   | https://www.unifal-mg.edu.br/ecofrag/podcast-eco-evolucao/                              |         |
 | Escriba Café                     | História                          | https://escribacafe.com/tagged/podcast                                                  |         |
@@ -41,10 +42,13 @@
 | Fronteiras no Tempo              | História                          | http://fronteirasnotempo.com                                                            |         |
 | Giz Cast                         | Educação                          | http://gizcast.com.br/                                                                  |         |
 | Hack'n'Cast                      | Segurança digital                 | http://hackncast.org/                                                                   |         |
+| Hipsters ponto tech              | Desenvolvimento                   | https://hipsters.tech/                                                                  |         |
 | Impacto Positivo                 |                                   | https://www.euricovianna.com.br/podcast-impacto-positivo/                               |         |
 | Larvas Incendiadas               | Gênero e Sexualidade              | https://larvasincendiadas.com/                                                          |         |
-| Lambda3                          |                                   | https://www.lambda3.com.br/                                                             |         |
+| Lambda3                          | Tecnologia e Assuntos Diversos    | https://www.lambda3.com.br/                                                             |         |
 | Lingua Livre                     | Lingua, Linguagens                | https://www.lingualivre.com/                                                            |         |
+| Loop Matinal                     | Tecnologia                        | https://www.lingualivre.com/                                                            |         |
+| Lovelace                         | Tecnologia                        | https://pca.st/VOw2                                                                     |         |
 | Lugar de Mulher                  | Humanidades                       | http://lugardemulherpod.com/                                                            |         |
 | Mamilos                          | Jornalismo, Diversos              | https://www.b9.com.br/podcasts/mamilos/                                                 |         |
 | Medicina em Debate               |                                   | http://medicinaemdebate.com.br/                                                         |         |
@@ -67,7 +71,9 @@
 | Pizza de Dados                   | Ciência de Dados                  | http://pizzadedados.com/                                                                |         |
 | PoDebug                          | Programação                       | http://www.podebug.com/                                                                 |         |
 | PODEntender                      |                                   | https://podentender.com/                                                                |         |
+| PodProgramar                     | Programação                       | https://podprogramar.com.br/                                                            |         |
 | PodScience                       | Ciências Naturais e Humanas       | https://podscience.wordpress.com/                                                       |         |
+| PodTag                           | Tecnologia                        | https://podtag.com.br/                                                                  |         |
 | Política em Rede                 | Ciência Política                  | https://inctdd.org/politica-em-rede/                                                    |         |
 | Quarta Capa                      | Literatura                        | https://dragoesdegaragem.com/quartacapa/                                                |         |
 | Quatro de 15                     | Educação Física                   | https://quatrode15.com.br                                                               |         |
@@ -76,6 +82,7 @@
 | Salvo melhor juízo               | Direito                           | http://feeds.soundcloud.com/users/soundcloud:users:187785133/sounds.rss                 |         |
 | Scicast                          | Diversos                          | http://www.deviante.com.br/podcasts/scicast/                                            |         |
 | SciKids                          | Infantil                          | http://www.deviante.com.br/podcasts/scikids/                                            |         |
+| SecurityCast                     | Segurança da Informação           | http://securitycast.com.br/                                                             |         |
 | SegInfo Cast                     | Segurança da informação           | https://seginfo.com.br/category/podcast-seguranca-tecnologia-da-informacao-seginfocast/ |         |
 | Segurança Legal                  | Direito e Segurança da informação | http://www.segurancalegal.com/                                                          |         |
 | Serendip                         | Diversos                          | http://www.cienciaexplica.com.br/category/podcast/serendip/                             |         |
@@ -88,3 +95,4 @@
 | Viracasacas                      | Direito e Política                | https://viracasacas.com/                                                                |         |
 | Volt Ampere Podcast              | Eletrônica e Tecnologia           | http://hexatronic.com.br/category/podcast/                                              |         |
 | Xadrez Verbal                    | Politica Internacional            | https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/                       |         |
+
