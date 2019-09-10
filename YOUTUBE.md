@@ -1,4 +1,4 @@
-| Nome                                     | Área do Conhecimento                     | Endereço                                                     | Obs                                     |
+| Nome                                 | Área do Conhecimento                     | Endereço                                                     | Obs                                     |
 |------------------------------------------|------------------------------------------|------------------------------------------------------------- |-----------------------------------------|
 | 2 Minutos (BR)                           | Arte e Ficção Científica                 | https://www.youtube.com/channel/UCXjXV5kjakPJCYN99MXeVng     | Retirado de "Anel de Blogs Científicos" |
 | Academia de cientistas (BR)              | Ciência Geral                            | https://www.youtube.com/channel/UCFF1IIhsSvYIxKE3dqgNDSw     | Retirado de "Anel de Blogs Científicos" |
@@ -185,6 +185,7 @@
 | O Planeta Terra (BR)                     | Ciências Físicas, Astronômicas e da Terra| https://www.youtube.com/channel/UCY9AGaVi3oPZYDJm7iqZB2A     | Retirado de "Anel de Blogs Científicos" |
 | Olá, Ciência!                            |                                          | https://www.youtube.com/channel/UCrSM1UV_KLAdTzgxyxl3POw     | ScienceVlogsBr                          |
 | Oquimiajuda (BR)                         | Ciências Químicas                        | https://www.youtube.com/channel/UC77PZHDYceo1j2xPcuU_lPQ     | Retirado de "Anel de Blogs Científicos" |
+| Papo de Cobra                            | Biologia, Serpentes e Prevenção de Acidentes Ofídicos | http://www.youtube.com/papodecobra              |                                         |
 | Papo de Biólogo                          |                                          | https://www.youtube.com/user/papodebiologo                   | ScienceVlogsBr                          |
 | Papo de Primata                          |                                          | https://www.youtube.com/user/papodeprimata                   | ScienceVlogsBr                          |
 | Paulo Cacella                            | Astronomia                               | https://www.youtube.com/user/paulocacella                    |                                         |
@@ -223,6 +224,7 @@
 | Terra Negra                              |                                          | https://www.youtube.com/channel/UCbQ4CkszFFUju5XtFid-XWQ     | ScienceVlogsBr                          |
 | Tese Onze                                | Ciências Políticas                       | https://www.youtube.com/channel/UC0fGGprihDIlQ3ykWvcb9hg     |                                         |
 | Thaís Lima                               |                                          | https://www.youtube.com/channel/UCA0KKIqq_xQf9s9fhDXSVgg     |                                         |
+| The Mingau                               | Biologia e Paleontologia                 | https://www.youtube.com/user/queromingal                     |                                         |
 | Tomada Zero (BR)                         | Ciências Físicas, Astronômicas e da Terra| https://www.youtube.com/channel/UCUUxzrFdb0eOmLkTjHd_MMg     | Retirado de "Anel de Blogs Científicos" |
 | Tome Ciência (BR)                        | Ciência Geral                            | https://www.youtube.com/user/tomeciencia                     | Retirado de "Anel de Blogs Científicos" |
 | Trabalho de Mesa                         | Artes Cênicas                            | https://www.youtube.com/user/confinsartisticos               |                                         |
