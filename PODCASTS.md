@@ -59,6 +59,7 @@
 | NerdCast                         | Diversos                          | https://jovemnerd.com.br/nerdcast/                                                      |         |
 | NeuroCast                        |                                   | http://proec.ufabc.edu.br/neurocast/                                                    |         |
 | O Nicho                          | Biologia                          | https://onichopodcast.wordpress.com/                                                    |         |
+| Olhares                |         | Gênero, Direitos Humanos          | https://olharespodcast.com.br                            
 | Osmozzy                          | Cinema, política (?)              | http://osmozzy.com.br/category/podcast/                                                 | Inativo |
 | Oxigênio Podcast                 |                                   | http://oxigenio.comciencia.br/                                                          |         |
 | Paideia                          |                                   | http://www.labi.ufscar.br/category/conteudos/paideia-conteudos/podcast-paideia/         |         |
