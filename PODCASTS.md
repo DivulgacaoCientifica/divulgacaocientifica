@@ -76,6 +76,7 @@
 | PodScience                       | Ciências Naturais e Humanas       | https://podscience.wordpress.com/                                                       |         |
 | PodTag                           | Tecnologia                        | https://podtag.com.br/                                                                  |         |
 | Política em Rede                 | Ciência Política                  | https://inctdd.org/politica-em-rede/                                                    |         |
+| Quarentena Podcast               | Ciência, Tecnologia e Sociedade   | http://oxigenio.comciencia.br/quarentena/                                               |         |
 | Quarta Capa                      | Literatura                        | https://dragoesdegaragem.com/quartacapa/                                                |         |
 | Quatro de 15                     | Educação Física                   | https://quatrode15.com.br                                                               |         |
 | Rock Com Ciências                |                                   | http://www.rockcomciencia.com.br/                                                       |         |
