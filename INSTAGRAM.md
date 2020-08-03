@@ -43,6 +43,7 @@
 | LUCA - Ciência para Educar               | Astrobiologia                            | https://www.instagram.com/luca_astrobio/                          |          |
 | lidiaencide                              | Psicologia / Neuropsicologia / Neurociência| https://www.instagram.com/lidiaencide/                          |          |
 | Lab Ecotox                               | Ecotoxicologia / Oceanografia            | https://www.instagram.com/labecotox/                              |          |
+| Marcela Pesquisa                         | Tecnologia e Divulgacao Cientifica       | https://www.instagram.com/marcelapesquisa/                        |          | 
 | Milocando (Camila Meira)                 | Biociências                              | https://www.instagram.com/milameira/                              |          |
 | MulheresNaCiência                        | Divulgação Científica                    | https://www.instagram.com/mulheresnacienciabr/                    |          |
 | msc._facci                               | Química / Química Analítica / Química Forense | https://www.instagram.com/msc._facci/                        |          |
