@@ -38,6 +38,7 @@
 | Fisio na Pauta                   | Fisioterapia                      | http://www.fisionapauta.com.br/podcasts/                                                |         |
 | FrontCast                        | História                          | http://www.frontcast.com.br                                                             |         |
 | Fronteiras da Ciência            |                                   | http://www.ufrgs.br/frontdaciencia/                                                     |         |
+| Fronteiras da Engenharia de Software | Computação                                   | https://fronteirases.github.io/                                                   |         |
 | Fronteiras Invisíveis do Futebol | História                          | https://xadrezverbal.com/category/audio/podcast-fronteiras-invisiveis-do-futebol/       |         |
 | Fronteiras no Tempo              | História                          | http://fronteirasnotempo.com                                                            |         |
 | Giz Cast                         | Educação                          | http://gizcast.com.br/                                                                  |         |
